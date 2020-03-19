@@ -63,7 +63,7 @@ function App() {
               height: ${hei}%;
             `}>
               <button id='btnCopy'>Copy CSS code</button>
-            </CopyToClipboard><animated.span style={{ marginLeft: "10px"}}>Ok, text copied</animated.span>
+            </CopyToClipboard>
           </div>
         </div>
 

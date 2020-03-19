@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Lobster&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap');
 
-@media (min-width: 1400px) {
 * {
   box-sizing: border-box;
 }
@@ -87,9 +86,6 @@ div.sub {
   display: flex;
   flex-direction: row;
 }
-input.ipt {
-  background: rgba(0,0,0,.1);
-}
 .ipt {
   -webkit-appearance: none;
   width: 100%;
@@ -129,4 +125,4 @@ input.read {
   border: none;
   padding: 10px;
 }
-}
+

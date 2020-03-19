@@ -10,11 +10,8 @@ html, body {
   box-shadow: none;
   font-family: 'Roboto', sans-serif;
 }
-body {
-  background-color: red;
-}
 h2 {
-  font-weight: 400;
+  font-weight: 400; 
 }
 div.container {
   margin: 0 auto;

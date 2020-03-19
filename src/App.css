@@ -26,12 +26,6 @@ h1 {
   text-align: center;
   margin-bottom: 120px;
 }
-div.container .block {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  background-color: #fff;
-}
 div.first-column {
   display: flex;
   height: 100vh;
@@ -70,7 +64,6 @@ code {
 }
 div.container .input-block {
   background-color: #fff;
-  width: 30vw;
   height: auto;
 }
 div.block .bg-animated-div {

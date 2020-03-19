@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { CopyToClipboard } from 'react-copy-to-clipboard'
 import './App.css';
+import './responsive.css'
 import { animated } from  'react-spring'
 
 function App() {

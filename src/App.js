@@ -58,11 +58,11 @@ function App() {
                 width: {wid}%;<br/>
                 height: {hei}%;
             </code><br/>
-            <CopyToClipboard text={`
-              border-radius: ${x}% ${y}% ${w}% ${z}% / ${p}% ${q}% ${r}% ${s}%;
+            <CopyToClipboard text={
+             `border-radius: ${x}% ${y}% ${w}% ${z}% / ${p}% ${q}% ${r}% ${s}%;
               width: ${wid}%;
-              height: ${hei}%;
-            `}>
+              height: ${hei}%;`
+            }>
               <button id='btnCopy'>Copy CSS code</button>
             </CopyToClipboard>
           </div>

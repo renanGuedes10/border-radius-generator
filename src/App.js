@@ -39,7 +39,7 @@ function App() {
 
   return (
     <div className='container'>
-      <h1>Border Radius Modificator</h1>
+      <h1>Border Radius Generator</h1>
       <div className='block'>
         <div className='first-column'>
           <div className='bg-animated-div'>

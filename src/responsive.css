@@ -1,4 +1,4 @@
-@media (min-width: 1400px) {
+@media (min-width: 1500px) {
   div.container .block {
     display: flex;
     align-items: center;
@@ -8,36 +8,4 @@
   div.input-block {
     width: 30vw;
   }
-}
-@media (max-width: 1400px) {
-  div.container .block {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: space-around;
-    background-color: #fff;
-  }
-  .bg-animated-div {
-    margin-right: 40px;
-    margin-bottom: -150px;
-  }
-  div.input-block {
-    width: 500px;
-    margin-left: 50px;
-  }
-  div.code-block {
-    margin-bottom: -100px;
-    margin-left: 10px;
-  }
-@media (max-width: 1060px) {
-  h1 {
-    font-size: 40pt;
-  }
-}
-@media (max-width: 837px) {
-  h1 {
-    font-size: 30pt;
-    margin-bottom: -100px;
-  }
-}
 }

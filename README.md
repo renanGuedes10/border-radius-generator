@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Border Radius Generator
+<p>
+   <img src="https://user-images.githubusercontent.com/55260736/80262437-c8fb0600-8663-11ea-899b-ffb5225a8df4.png"/>
+</p>
+
+
 ## Available Scripts
 
 In the project directory, you can run:
